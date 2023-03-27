@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://github.com/ahammadmejbah/Text-Extraction-Using-Pytesseract/blob/main/Blog%20Banners.png" width="80px"><br/>Text Extraction Using Pytesseract</h1>
+      <h1> <img src="https://github.com/ahammadmejbah/Text-Extraction-Using-Pytesseract/blob/main/Blog%20Banners.png" width="2048px"><br/>Text Extraction Using Pytesseract</h1>
      </div>
 
 
